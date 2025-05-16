@@ -1,0 +1,33 @@
+.container {
+    margin:auto;
+    padding:20px;
+    width: 80%;
+    background-color: #f4f4f4;
+
+}
+
+h1{
+    color:rgb(42, 212, 150);
+    text-align: center;
+}
+h2{
+    color:rgb(55, 18, 177);
+    text-align: center;
+}
+
+p{
+    font-size: medium;
+    font-style: italic;
+    text-align: center;
+    color: rgb(223, 31, 73);
+}
+button {
+    background-color: rgb(30, 200, 18);
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    
+}
